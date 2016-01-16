@@ -1,6 +1,6 @@
 name: Mind Baby Spirit
 favicon: null
-layout_spectrum: 0.6196257269475609
+layout_spectrum: 0.91484
 typography_spectrum: 0.23747709416784346
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#c557a0'
+    - '#f7e8f6'
+    - '#d688b4'
+    - '#e7b4d9'
   brandStrength: 0.5083829897921532
   lightness: 0.6405037853401154
   saturation: 0.051777559565380216
