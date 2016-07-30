@@ -1,20 +1,4 @@
-name: Mind Baby Spirit
-favicon: null
-layout_spectrum: 0.3948
 typography_spectrum: 0.23747709416784346
-title: Mind Baby Spirit
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.6405037853401154
   saturation: 0.051777559565380216
   rhythmicContrast: 0.22792402980849147
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3948
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Mind Baby Spirit
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Mind Baby Spirit
 purpose: []
